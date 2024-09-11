@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm C V Tarun</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun516&label=Profile%20views&color=0e75b6&style=flat" alt="tarun516" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun516" alt="tarun516" /></a> </p>
-
 - 🔭 I’m currently working on **MindBridge**
 
 - 🌱 I’m currently learning **Machine Learning,NLP,Computer Vision**
